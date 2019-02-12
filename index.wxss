@@ -1,0 +1,10 @@
+.coverImgWrap {
+  white-space: initial;
+  position: relative;
+  overflow: hidden;
+}
+
+.coverImg {
+  display: block;
+  position: absolute;
+}
