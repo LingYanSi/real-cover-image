@@ -1,4 +1,5 @@
-[小程序cover-image文档](https://developers.weixin.qq.com/miniprogram/dev/component/cover-view.html#cover-image)
+# better-cover-image
+解决了小程序原生组件[cover-image](https://developers.weixin.qq.com/miniprogram/dev/component/cover-view.html#cover-image)不支持图片居中的问题
 
 ## 使用
 ```jsx
